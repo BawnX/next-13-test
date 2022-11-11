@@ -3,7 +3,7 @@ const nextConfig = {
   experimental: {
     appDir: true
   },
-  images:{
+  images: {
     domains: ['avatars.dicebear.com']
   },
   reactStrictMode: true
